@@ -1,1 +1,0 @@
-Sitemap: http://gitlab.vertexplus.inet/gitlab/goodtime/goodtime/sitemap.xml
