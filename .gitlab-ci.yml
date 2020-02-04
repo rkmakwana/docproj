@@ -1,8 +1,8 @@
 pages:
   script:
   - bundle install
-  - bundle exec jekyll build -d Docs/gl-pages
+  - bundle exec jekyll build -d gl-pages
   artifacts:
     paths:
-    - Docs/gl-pages
+    - gl-pages
 
