@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/goodtime/sitemap.xml
+Sitemap: http://gitlab.vertexplus.inet/gitlab/goodtime/goodtime/sitemap.xml
