@@ -1,0 +1,8 @@
+pages:
+  script:
+  - bundle install
+  - bundle exec jekyll build -d Docs/gl-pages
+  artifacts:
+    paths:
+    - public
+
