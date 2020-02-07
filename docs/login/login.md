@@ -3,7 +3,7 @@ layout: default
 title: Login
 nav_order: 3
 has_children: true
-permalink: login
+permalink: /login
 ---
 
 # Login
